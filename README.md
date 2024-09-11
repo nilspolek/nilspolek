@@ -1,6 +1,6 @@
 # Nils Polek
+![leetcode](https://leetcard.jacoblin.cool/nname6617?theme=dark&font=Noto%20Serif%20Tamil)
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilspolek&show_icons=true&theme=github_dark" width="400" style="padding: 20px;">
-  ![](https://leetcard.jacoblin.cool/nname6617?theme=dark&font=Noto%20Serif%20Tamil)
   <img src="https://github-readme-stats.vercel.app/api?username=nilspolek&show_icons=true&theme=github_dark" width="400" style="padding: 20px;">
 </p>
