@@ -1,20 +1,35 @@
-# Nils Polek
-Welcome to my GitHub! I'm Nils Polek, a backend-focused developer and computer science student at Technische Hochschule Mittelhessen. I specialize in building scalable and efficient backend systems using Java, Node.js, Spring Boot, and various Databases (SQL & NoSQL). My projects reflect my passion for backend development, API design, and optimizing server-side performance.
-
-## About Me
-I started my journey in backend development during my internship at Alternate, where I worked on server-side logic, database management, and API integrations. This hands-on experience helped me develop a strong foundation in building scalable and maintainable backend architectures.
-
-Currently, I’m studying Computer Science at THM, focusing on backend technologies, system architecture, and cloud solutions. I’m always looking for ways to improve my skills and experiment with new technologies to create efficient and reliable backend systems.
-
-## Key Technologies
-- Languages: Go, Java, JavaScript (Node.js)
-- Frameworks: Spring Boot, Express.js
-- Databases: MySQL, MongoDB, PostgreSQL
-- API Design: RESTful APIs, gRPC
-- Tools: Docker, Kubernetes, Git
-
-## Contact
-- Email: nils@polek.de
-- LinkedIn: linkedin.com/in/nilspolek
-- GitHub: github.com/nilspolek
-
+<h1 align="center">Hi 👋, I'm Nils Polek</h1>  
+<h3 align="center">A passionate backend developer from Germany</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilspolek&label=Profile%20views&color=0e75b6&style=flat" alt="nilspolek" /> </p>  
+  
+- 🔭 I’m currently working on [Astral](https://github.com/nilspolek/AstralFS)  
+  
+- 🌱 I’m currently learning **Microservice Development and Cloud Development**  
+  
+- 👯 I’m looking to collaborate on [Golaxy](https://github.com/nilspolek/Golaxy)  
+  
+- 🤝 I’m looking for help with [OsmosisDB](https://github.com/nilspolek/OsmosisDB)  
+  
+- 👨‍💻 All of my projects are available at [https://github.com/nilspolek/nilspolek](https://github.com/nilspolek/nilspolek)  
+  
+- 💬 Ask me about **Go, Docker and Kubernetes**  
+  
+- 📫 How to reach me **nils@polek.de**  
+  
+- 📄 Know about my experiences [https://www.linkedin.com/in/nils-polek-a33561305/?originalSubdomain=de](https://www.linkedin.com/in/nils-polek-a33561305/?originalSubdomain=de)  
+  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://linkedin.com/in/nils-polek-a33561305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nils-polek-a33561305" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/nname6617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nname6617" height="30" width="40" /></a>  
+</p>  
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilspolek&show_icons=true&locale=en&layout=compact" alt="nilspolek" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilspolek&show_icons=true&locale=en" alt="nilspolek" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilspolek&" alt="nilspolek" /></p>
