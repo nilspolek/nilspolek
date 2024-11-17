@@ -1,7 +1,4 @@
 # Nils Polek
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilspolek&show_icons=true&theme=github_dark" width="400" style="padding: 20px;">
-</p>
 Welcome to my GitHub! I'm Nils Polek, a backend-focused developer and computer science student at Technische Hochschule Mittelhessen. I specialize in building scalable and efficient backend systems using Java, Node.js, Spring Boot, and various Databases (SQL & NoSQL). My projects reflect my passion for backend development, API design, and optimizing server-side performance.
 
 ## About Me
