@@ -7,14 +7,14 @@ I started my journey in backend development during my internship at Alternate, w
 Currently, I’m studying Computer Science at THM, focusing on backend technologies, system architecture, and cloud solutions. I’m always looking for ways to improve my skills and experiment with new technologies to create efficient and reliable backend systems.
 
 ## Key Technologies
-Languages: Go, Java, JavaScript (Node.js)
-Frameworks: Spring Boot, Express.js
-Databases: MySQL, MongoDB, PostgreSQL
-API Design: RESTful APIs, gRPC
-Tools: Docker, Kubernetes, Git
+- Languages: Go, Java, JavaScript (Node.js)
+- Frameworks: Spring Boot, Express.js
+- Databases: MySQL, MongoDB, PostgreSQL
+- API Design: RESTful APIs, gRPC
+- Tools: Docker, Kubernetes, Git
 
 ## Contact
-Email: nils@polek.de
-LinkedIn: linkedin.com/in/nilspolek
-GitHub: github.com/nilspolek
+- Email: nils@polek.de
+- LinkedIn: linkedin.com/in/nilspolek
+- GitHub: github.com/nilspolek
 
