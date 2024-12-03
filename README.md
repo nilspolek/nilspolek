@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Microservice Development and Cloud Development**  
   
-- 👨‍💻 All of my projects are available at [https://github.com/nilspolek/nilspolek](https://github.com/nilspolek/nilspolek)  
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/nilspolek/nilspolek)  or my [Website](https://webnils.de/projects.html)
   
 - 💬 Ask me about **Go, Docker and Kubernetes**  
   
