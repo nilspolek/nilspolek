@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **nils@polek.de**  
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/nils-polek-a33561305/?originalSubdomain=de](https://www.linkedin.com/in/nils-polek-a33561305/?originalSubdomain=de)  
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nils-polek-a33561305/?originalSubdomain=de)  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
