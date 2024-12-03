@@ -3,13 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilspolek&label=Profile%20views&color=0e75b6&style=flat" alt="nilspolek" /> </p>  
   
-- 🔭 I’m currently working on [Astral](https://github.com/nilspolek/AstralFS)  
-  
 - 🌱 I’m currently learning **Microservice Development and Cloud Development**  
-  
-- 👯 I’m looking to collaborate on [Golaxy](https://github.com/nilspolek/Golaxy)  
-  
-- 🤝 I’m looking for help with [OsmosisDB](https://github.com/nilspolek/OsmosisDB)  
   
 - 👨‍💻 All of my projects are available at [https://github.com/nilspolek/nilspolek](https://github.com/nilspolek/nilspolek)  
   
