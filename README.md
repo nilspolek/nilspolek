@@ -27,6 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilspolek&show_icons=true&locale=en&layout=compact" alt="nilspolek" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilspolek&show_icons=true&locale=en" alt="nilspolek" /></p>  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilspolek&" alt="nilspolek" /></p>
 
